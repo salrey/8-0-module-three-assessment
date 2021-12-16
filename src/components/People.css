@@ -1,3 +1,35 @@
 .people {
     background-color: cornflowerblue;
+    padding: 20px 0px ;
+}
+
+.people input {
+    border: none;
+    background-color: plum;
+    color: darkslategray;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    outline: none;
+    height: 15px;
+}
+
+.people input:focus {
+    background-color: darkslategray;
+    color:plum
+}
+
+.people button {
+    background-color: plum;
+    outline: none;
+    border: none;
+    line-height: 23px;
+}
+
+.people img {
+    vertical-align:text-bottom;
+}
+
+.people-details {
+    padding: 20px 250px;
 }
