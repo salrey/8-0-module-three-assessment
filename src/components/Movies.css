@@ -1,0 +1,18 @@
+.movies {
+    background-color: goldenrod;
+}
+
+.movie-details {
+    padding: 20px 250px;
+}
+
+.movies select {
+    margin: 0px 10px;
+    border: none;
+    background-color: darkslategray;
+    color: plum;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    outline: none
+}
