@@ -1,5 +1,4 @@
 import { Component } from "react";
-// import { Link } from "react-router-dom";
 import "./People.css";
 import searchimg from "./search.png";
 
