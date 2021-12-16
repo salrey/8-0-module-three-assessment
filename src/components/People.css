@@ -15,8 +15,7 @@
 }
 
 .people input:focus {
-    background-color: darkslategray;
-    color:plum
+    background-color: lightcoral;
 }
 
 .people button {
@@ -32,4 +31,15 @@
 
 .people-details {
     padding: 20px 250px;
+}
+
+.person-details {
+    background-color: darksalmon;
+    margin: 0px 100px;
+    padding: 10px 0px
+}
+
+.person-details:hover {
+    background-color: lightcoral;
+
 }

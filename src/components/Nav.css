@@ -12,19 +12,22 @@ nav .menu {
 }
 
 nav img {
-   float: left;
-   margin-left: 50px;
+   margin-right: 300px;
+   vertical-align:middle;
+   padding-bottom: 2px;
 }
 
 nav a:link {
     color: plum;
     text-decoration: none;
     font-weight: 500;
+    height: 55px;
+    line-height: 55px;
 }
 
 nav a:link:hover {
-    text-decoration: underline;
     background-color:rgba(72, 114, 114, 0.414);
     font-weight: bold;
+    color: lightcoral
 }
 
