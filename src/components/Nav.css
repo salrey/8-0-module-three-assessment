@@ -1,0 +1,28 @@
+nav {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 55px;
+    background-color: darkslategray;
+}
+
+nav .menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+}
+
+nav img {
+   float: left;
+   margin-left: 50px;
+}
+
+nav a:link {
+    color: plum;
+    text-decoration: none;
+}
+
+nav a:link:hover {
+    text-decoration: underline;
+    background-color:rgba(72, 114, 114, 0.414);
+}
+
