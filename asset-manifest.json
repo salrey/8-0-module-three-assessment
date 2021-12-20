@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ghibli-React-App/static/css/main.06ebdcab.chunk.css",
+    "main.js": "/Ghibli-React-App/static/js/main.5a2d87c9.chunk.js",
+    "main.js.map": "/Ghibli-React-App/static/js/main.5a2d87c9.chunk.js.map",
+    "runtime-main.js": "/Ghibli-React-App/static/js/runtime-main.b3994291.js",
+    "runtime-main.js.map": "/Ghibli-React-App/static/js/runtime-main.b3994291.js.map",
+    "static/js/2.b900cae2.chunk.js": "/Ghibli-React-App/static/js/2.b900cae2.chunk.js",
+    "static/js/2.b900cae2.chunk.js.map": "/Ghibli-React-App/static/js/2.b900cae2.chunk.js.map",
+    "index.html": "/Ghibli-React-App/index.html",
+    "static/css/main.06ebdcab.chunk.css.map": "/Ghibli-React-App/static/css/main.06ebdcab.chunk.css.map",
+    "static/js/2.b900cae2.chunk.js.LICENSE.txt": "/Ghibli-React-App/static/js/2.b900cae2.chunk.js.LICENSE.txt",
+    "static/media/ghibli-logo.2a9686e0.png": "/Ghibli-React-App/static/media/ghibli-logo.2a9686e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3994291.js",
+    "static/js/2.b900cae2.chunk.js",
+    "static/css/main.06ebdcab.chunk.css",
+    "static/js/main.5a2d87c9.chunk.js"
+  ]
+}
